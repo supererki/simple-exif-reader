@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleExifSorter", "SimpleExifSorter.csproj", "{EB2BF089-12AB-40C8-9C8C-97FBFB3CF92F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB2BF089-12AB-40C8-9C8C-97FBFB3CF92F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2BF089-12AB-40C8-9C8C-97FBFB3CF92F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2BF089-12AB-40C8-9C8C-97FBFB3CF92F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2BF089-12AB-40C8-9C8C-97FBFB3CF92F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
